@@ -1,4 +1,4 @@
-### Olá, Me chamo Mariana
+### Olá, me chamo Mariana
 
 
 - 💼 Atualmente trabalho como analista de seguros.
