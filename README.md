@@ -7,7 +7,7 @@
 - 🎯 Minha meta é ser uma desenvolvedora Front-End
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mariana-de-moraes-orsi-762165224/" target="_blank">
+  <a href="https://github.com/MarianaOrsi?tab=repositories" target="_blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaOrsi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaOrsi&layout=compact&langs_count=7&theme=react"/>
 <div style="display: inline_block"><br>
