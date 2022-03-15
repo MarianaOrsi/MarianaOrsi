@@ -3,7 +3,7 @@
 
 - 💼 Atualmente trabalho como analista de seguros.
 - 🌱 Aprendendo a programar
-- 💻 Cursando o programa Certified Tech Developer na Digital House
+- 💻 Cursando o programa Certified Tech Developer na Digital House | Cursando Sistemas para Internet
 - 😄 Moro em São Paulo
 - 🎯 Minha meta é ser uma desenvolvedora Front-End
 
