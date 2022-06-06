@@ -1,7 +1,7 @@
 ### Olá, me chamo Mariana
 
 
-- 💼 Atualmente trabalho como analista de seguros.
+- 💼 Atualmente trabalho como analista de seguros PL.
 - 🌱 Aprendendo a programar
 - 💻 Cursando o programa Certified Tech Developer na Digital House | Cursando Sistemas para Internet
 - 😄 Moro em São Paulo
