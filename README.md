@@ -3,9 +3,8 @@
 
 - 💼 Atualmente trabalho como analista de seguros PL.
 - 🌱 Aprendendo a programar
-- 💻 Cursando o programa Certified Tech Developer na Digital House | Cursando Sistemas para Internet
+- 💻 Cursando Sistemas para Internet
 - 😄 Moro em São Paulo
-- 🎯 Minha meta é ser uma desenvolvedora Front-End
 
 <div align="center">
   <a href="https://github.com/MarianaOrsi?tab=repositories" target="_blank">
@@ -15,6 +14,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   
