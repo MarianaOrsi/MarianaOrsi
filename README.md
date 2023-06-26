@@ -4,7 +4,7 @@
 - 💼 Atualmente trabalho como analista de seguros PL.
 - 🌱 Aprendendo a programar
 - 💻 Cursando Sistemas para Internet
-- 😄 Moro em São Paulo
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
