@@ -1,8 +1,7 @@
 ### Olá, me chamo Mariana
 
 
-- 💼 Atualmente trabalho como Técnico de Seguros Jr.
-- 🌱 Futura analista de dados
+- 🌱 Futura dev
 - 💻 Formada em Sistemas para Internet
 
 
