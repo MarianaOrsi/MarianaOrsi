@@ -8,7 +8,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-DBS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
-  <img align="center" alt="Mari-looker" height="30" width="40" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/looker.svg">
 </div>
  
  ##
