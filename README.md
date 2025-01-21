@@ -1,6 +1,6 @@
 
 
-Olá, me chamo Mariana
+Olá, sou a Mari 😁
 ---
 Tenho 29 anos e sou de São Paulo, formada em sistemas para internet, estudando programação desde 2021.
 
