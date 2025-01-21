@@ -6,8 +6,7 @@ Tenho 29 anos e sou de São Paulo, formada em sistemas para internet, estudante 
 
 Desenvolvedora Backend em Ascensão | Golang Enthusiast 🚀
 
-Minha jornada começou com a programação em outras linguagens, lá em 2021, mas foi ao descobrir o Golang que me encontrei.
-\n A eficiência e a simplicidade dessa linguagem me inspiram, a facilidade de entender o código me inspira a colocar a mão na massa. Estou sempre aprendendo e me atualizando sobre as melhores práticas e ferramentas. 
+Minha jornada começou com a programação em outras linguagens, lá em 2021, mas foi ao descobrir o Golang que me encontrei. A eficiência e a simplicidade dessa linguagem me inspiram, a facilidade de entender o código me inspira a colocar a mão na massa. Estou sempre aprendendo e me atualizando sobre as melhores práticas e ferramentas. 
 
 
 <div style="display: inline_block"><br>
