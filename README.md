@@ -6,9 +6,9 @@ Tenho 29 anos e sou de São Paulo, formada em sistemas para internet, estudante 
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
-  <img align="center" alt="Mari-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/goland/goland-plain.svg">
-  <img align="center" alt="Mari-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Mari-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
+  <img align="center" alt="Mari-go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/goland/goland-plain.svg">
+  <img align="center" alt="Mari-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
 </div>
  
  ##
