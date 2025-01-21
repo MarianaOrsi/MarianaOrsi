@@ -1,13 +1,17 @@
-### Olá, me chamo Mariana
+### 💻 Mariana Orsi
 
+* ` Desenvolvedora back-end ` *
 
-- 🌱 Futura dev
-- 💻 Formada em Sistemas para Internet
+Me chamo Mariana (Mari), tenho 29 anos e sou de São Paulo. Sou formada em sistemas para internet, estudando programação desde 2021. 
+
+- 🌱 Futura dev 
+- 👨‍🎓 Formada em Sistemas para Internet
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mari-DBS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Mari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
+  <img align="center" alt="Mari-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/goland/goland-plain.svg">
+  <img align="center" alt="Mari-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-plain-wordmark.svg">
 </div>
  
  ##
