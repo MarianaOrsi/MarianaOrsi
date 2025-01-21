@@ -2,7 +2,8 @@
 
 * ` Desenvolvedora back-end ` 
 
-Me chamo Mariana (Mari), tenho 29 anos e sou de São Paulo. Sou formada em sistemas para internet, estudando programação desde 2021. 
+Olá, me chamo Mariana (Mari), tenho 29 anos e sou de São Paulo. 
+👨‍🎓 Formada em sistemas para internet, estudando programação desde 2021. 
 
 
 <div style="display: inline_block"><br>
