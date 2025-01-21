@@ -13,7 +13,7 @@ Tenho 29 anos e sou de São Paulo. Formada em sistemas para internet, estudando 
  
  ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaOrsi&hide_progress=true&theme=gotham&custom_title=Tecnologias&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaOrsi&hide_progress=false&theme=gotham&custom_title=Tecnologias&langs_count=10)
   
   
   ##
