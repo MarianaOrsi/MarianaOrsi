@@ -2,7 +2,7 @@
 
 Olá, me chamo Mariana
 ---
-Tenho 29 anos e sou de São Paulo. Formada em sistemas para internet, estudando programação desde 2021.
+Tenho 29 anos e sou de São Paulo, formada em sistemas para internet, estudando programação desde 2021.
 
 ` Futura desenvolvedora back-end ` 
 <div style="display: inline_block"><br>
