@@ -11,7 +11,7 @@ Me chamo Mariana (Mari), tenho 29 anos e sou de São Paulo. Sou formada em siste
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
   <img align="center" alt="Mari-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/goland/goland-plain.svg">
-  <img align="center" alt="Mari-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Mari-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
 </div>
  
  ##
