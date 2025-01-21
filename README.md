@@ -1,9 +1,8 @@
 ### 💻 Mariana Orsi
-
-* ` Desenvolvedora back-end ` 
-
 Olá, me chamo Mariana (Mari), tenho 29 anos e sou de São Paulo. Formada em sistemas para internet, estudando programação desde 2021.
 
+
+* ` Desenvolvedora back-end ` 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
