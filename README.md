@@ -1,4 +1,5 @@
 ### 💻 Mariana Orsi
+---
 Olá, me chamo Mariana (Mari), tenho 29 anos e sou de São Paulo. Formada em sistemas para internet, estudando programação desde 2021.
 
 
@@ -11,7 +12,7 @@ Olá, me chamo Mariana (Mari), tenho 29 anos e sou de São Paulo. Formada em sis
  
  ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaOrsi&hide_progress=true&theme=gotham&custom_title=Tecnologias)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaOrsi&hide_progress=true&theme=gotham&custom_title=Tecnologias&langs_count=10)
   
   
   ##
