@@ -1,4 +1,4 @@
-### 💻 Mariana Orsi
+
 
 Olá, me chamo Mariana (Mari), tenho 29 anos e sou de São Paulo. Formada em sistemas para internet, estudando programação desde 2021.
 ---
