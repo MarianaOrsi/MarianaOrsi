@@ -2,9 +2,9 @@
 
 Olá, sou a Mari 😁
 ---
-Tenho 29 anos e sou de São Paulo, formada em sistemas para internet, estudante de programação back-end
+`Tenho 29 anos e sou de São Paulo, formada em sistemas para internet, estudante de programação back-end`
 
-`Futura desenvolvedora 🚀` 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
   <img align="center" alt="Mari-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/goland/goland-plain.svg">
