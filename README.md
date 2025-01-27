@@ -6,8 +6,6 @@ Tenho 29 anos e sou de São Paulo, formada em sistemas para internet, estudante 
 
 Desenvolvedora Backend em Ascensão | Golang Enthusiast 🚀
 
-Minha jornada começou com a programação em outras linguagens, lá em 2021, mas foi ao descobrir o Golang que me encontrei.
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
