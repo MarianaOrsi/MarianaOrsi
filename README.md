@@ -11,6 +11,7 @@ Desenvolvedora Backend em Ascensão | Golang Enthusiast 🚀
   <img align="center" alt="Mari-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
   <img align="center" alt="Mari-go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/goland/goland-plain.svg">
   <img align="center" alt="Mari-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Mari-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
 </div>
  
  #
