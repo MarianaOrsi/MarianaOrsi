@@ -5,7 +5,7 @@ Olá, sou a Mari 😁
 Tenho 29 anos e sou de São Paulo, formada em sistemas para internet, estudante de programação.
 
 Desenvolvedora Backend em Ascensão | Golang Enthusiast 🚀
-
+---
 ## Techs 🎯
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
