@@ -2,7 +2,7 @@ Olá, sou a Mari 😁
 
 Tenho 29 anos e sou de São Paulo, formada em sistemas para internet.
 
-Desenvolvedora Backend em Ascensão | Golang Enthusiast 🚀
+Estudante de técnologia 🚀
 
  <br /> <br/>
 
