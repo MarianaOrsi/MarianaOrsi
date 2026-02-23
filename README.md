@@ -1,8 +1,8 @@
 Olá, sou a Mari 😁
 
-Tenho 29 anos e sou de São Paulo, formada em sistemas para internet.
+Sou de São Paulo, formada em sistemas para internet.
 
-Estudante de técnologia 🚀
+Estudante de técnologia e entusiasta dos dados 🎲🖥
 
  <br /> <br/>
 
