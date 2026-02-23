@@ -9,8 +9,9 @@ Estudante de técnologia e entusiasta dos dados 🎲🖥
  ## Favoritos ⭐  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mari-Azure" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="Mari-Azure" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
   <img align="center" alt="Mari-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Mari-mysql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   <img align="center" alt="Mari-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
 </div>
  <br /> <br/>
