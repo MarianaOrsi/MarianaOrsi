@@ -14,9 +14,6 @@ Estudante de técnologia e entusiasta dos dados 🎲🖥
 </div>
  
  #
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaOrsi&hide_progress=false&theme=gotham&custom_title=Estudos📚&langs_count=10)
-  
   
   #
    
