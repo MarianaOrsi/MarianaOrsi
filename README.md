@@ -7,6 +7,7 @@ Estudante de técnologia e entusiasta dos dados 🎲🖥
  <br /> <br/>
 
  ## Favoritos ⭐  
+  <br /> <br/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
   <img align="center" alt="Mari-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
