@@ -1,8 +1,8 @@
-Olá, sou a Mari 😁
+Engenheira de dados com sólida experiência em desenvolvimento, manutenção e otimização de pipelines de dados escaláveis, atuando na construção de soluções de ETL/ELT, processamento e transformação de grandes volumes de dados. Experiência com SQL, Python, Spark, Databricks e Azure, desenvolvendo pipelines robustos, eficientes e confiáveis para ambientes de dados em nuvem. 🎲🖥
 
-Sou de São Paulo, formada em sistemas para internet.
+Atuação com Apache Airflow na orquestração de workflows, Kafka para processamento e integração de dados em tempo real e Docker para criação e gerenciamento de ambientes e aplicações. Experiência com Snowflake na construção e organização de soluções de Data Warehouse e Data Lakehouse, além de conhecimentos em Data Mesh, aplicando conceitos de descentralização, domínios de dados, ownership e dados como produto.
 
-Estudante de técnologia e entusiasta dos dados 🎲🖥
+Conhecimento em modelagem de dados, estruturas de fatos e dimensões, integração de diferentes fontes e disponibilização de informações para BI e Analytics, utilizando Power BI para criação de dashboards e análises orientadas ao negócio. 
 
  <br /> <br/>
 
