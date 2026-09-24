@@ -12,6 +12,7 @@ Estudante de técnologia e entusiasta dos dados 🎲🖥
   <img align="center" alt="Mari-Azure" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
   <img align="center" alt="Mari-Airflow" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apacheairflow/apacheairflow-original.svg">
   <img align="center" alt="Mari-SQLserver" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Mari-Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg">
   <img align="center" alt="Mari-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
 </div>
  <br /> <br/>
